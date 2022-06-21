@@ -1,0 +1,47 @@
+body{background-color: rgb(142, 196, 233);
+    color: rgb(85, 76, 58);}
+    div{color: rgb(11, 31, 43);}
+    font-family: 'Roboto Mono', monospace;
+    
+    h1{
+      font-style: 'Roboto Mono';
+    }
+    li {
+        float: left;
+      }
+      
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(118, 138, 226);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #111;
+      }
+
+      .form-row {
+        padding-left: 50px;
+      }
+      .form-group {
+        padding-left: 50px;
+        padding-top: 20px;
+      }
+      .btn.btn-primary{
+        padding-left: ;
+      }
